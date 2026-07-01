@@ -20,7 +20,7 @@ I love > Developing useful software and building stuff in general.
 ## Let's Connect
 
 <p>
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/angelina-b-5131172aa/)">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/angelina-b-5131172aa/">LinkedIn</a> •
 <a href="mailto:angelinabenny2006@gmail.com">Email</a> •
 </p>
 
