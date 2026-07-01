@@ -21,10 +21,16 @@ I love > Developing useful software and building stuff in general.
 </p>
 
 ## Current Focus
-> Full Stack Developing
-> Rust, python
-> Contribute consistently to Open Source
+- Full Stack Developing
+- Rust, python
+- Contribute consistently to Open Source
 
+## Let's Connect
+
+<p>
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/angelina-b-5131172aa/)">LinkedIn</a> •
+<a href="mailto:angelinabenny2006@gmail.com">Email</a> •
+</p>
 
 -  Fun fact: 
 --> You could almost convince me to work on any project, and I would say yes.
