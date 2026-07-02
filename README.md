@@ -14,8 +14,8 @@ I love > Developing useful software and building stuff in general.
 
 ## Current Focus
 - Full Stack Developing
-- Rust, python
-- Contribute consistently to Open Source
+- Neural nets
+- Open Source contribution
 
 ## Let's Connect
 
